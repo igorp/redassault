@@ -8,4 +8,4 @@ The version viewable here is an old one, written in Java using the LWJGL game li
 I have since decided to switch to C++ for performance and cross-platform related reasons.
 
 Note that the images files are not included as the plan is to eventually release a fully complete game.
-However, all of the programming code should be there.
+However, all of the programming code should be there. Here's a link to the game's official website: https://redassault.net/
